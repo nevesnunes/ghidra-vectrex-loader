@@ -1,4 +1,4 @@
-# Ghidra Vectex Loader
+# Ghidra Vectrex Loader
 
 Loads game ROMs for the GCE Vectrex console. Adds memory map and labels for BIOS functions and I/O ports.
 
